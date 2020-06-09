@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">firebaseDianApp</string>
+
+    <!-- string for the activity main-->
+    <string name="tvt_m1">Cuenta de predial:</string>
+    <string name="tvt_m2">Nombre del contribuyente:</string>
+    <string name="tvt_m3">Direccion del inmueble:</string>
+    <string name="tvt_m4">Tipo de inmueble:vivienda o edificio</string>
+    <string name="tvt_m5">Monto del pago:</string>
+    <string name="tvt_m6">Fecha:</string>
+    <string name="btn_m1">Enviar</string>
+    <!-- end string for the activity main-->
+
+
+    <!-- spinner -->
+    <string-array name="spn_m1">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <!-- end spinner -->
+</resources>

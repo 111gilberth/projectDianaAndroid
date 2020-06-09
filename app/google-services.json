@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612978783526",
+    "firebase_url": "https://dianapp-92c31.firebaseio.com",
+    "project_id": "dianapp-92c31",
+    "storage_bucket": "dianapp-92c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612978783526:android:d48742372bc4c2768bfde7",
+        "android_client_info": {
+          "package_name": "com.example.firebasedianapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612978783526-1lh3358u8dmv26b6ovvltcfqdhcmbnlj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAowbKqLjjVCeZ1YooejYQuf_Bk7zTFWPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612978783526-1lh3358u8dmv26b6ovvltcfqdhcmbnlj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
