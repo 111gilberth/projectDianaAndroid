@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-    <LinearLayout
-        xmlns:android="http://schemas.android.com/apk/res/android"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:paddingLeft="16dp"
-        android:paddingTop="100dp"
-        android:paddingRight="16dp"
-        android:orientation="vertical">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingLeft="16dp"
+    android:paddingTop="100dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical">
 
     <TextView
         android:id="@+id/tvt_m1"
@@ -20,16 +20,19 @@
         android:layout_width="170dp"
         android:layout_height="35dp"
         android:text="@string/tvt_m2" />
+
+    <Spinner
+        android:id="@+id/spi_m1"
+        android:layout_width="150dp"
+        android:layout_height="30dp"
+        android:drawSelectorOnTop="true"/>
+
     <TextView
         android:id="@+id/tvt_m3"
         android:layout_width="150dp"
         android:layout_height="35dp"
         android:text="@string/tvt_m3" />
-    <Spinner
-        android:id="@+id/spi_m1"
-        android:layout_width="230dp"
-        android:layout_height="35dp"
-        android:prompt="@string/s" />
+
     <TextView
         android:id="@+id/tvt_m5"
         android:layout_width="150dp"

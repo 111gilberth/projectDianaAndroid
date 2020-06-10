@@ -1,2 +1,3 @@
 rootProject.name='firebaseDianApp'
 include ':app'
+include ':app:library'

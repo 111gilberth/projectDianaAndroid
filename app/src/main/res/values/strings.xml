@@ -14,14 +14,8 @@
 
     <!-- spinner -->
     <string-array name="spn_m1">
-        <item>Mercury</item>
-        <item>Venus</item>
-        <item>Earth</item>
-        <item>Mars</item>
-        <item>Jupiter</item>
-        <item>Saturn</item>
-        <item>Uranus</item>
-        <item>Neptune</item>
+        <item>Vivienda</item>
+        <item>Edificio</item>
     </string-array>
     <!-- end spinner -->
 </resources>
